@@ -2,6 +2,7 @@
 A simple python script that allows you to control your mouse using a keyboard
 
 **How to use :**
+
 Start the python file or :
 ```python
 from controller import Controller
